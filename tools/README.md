@@ -101,7 +101,7 @@ Also, connect a joystick to your pc.
 `boardd` sends the CAN messages from your pc to the panda.
 `debug_controls` is a mocked version of `controlsd.py` and uses input from a joystick to send controls to your car.
 
-Make sure the conditions are met in the panda to allow controls (e.g. cruise control engaged). You can also make a modification to the panda code to always allow controls.
+Make sure the conditions are met in the panda to allow controls (e.g: cruise control engaged). You can also make a modification to the panda code to always allow controls.
 
 Usage:
 ```
